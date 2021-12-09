@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "nombre": "Bombón Block Caja",
+    "precio": "595",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_868900-MLA45511167163_042021-O.webp"
+}, {
+    "id": 2,
+    "nombre": "Chocolate Block Miti Miti",
+    "precio": "360",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_841144-MLA46428988488_062021-O.webp"
+}, {
+    "id": 3,
+    "nombre": "Obleas Opera Triple Frutilla",
+    "precio": "77",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_723367-MLA47444727482_092021-O.webp"
+}, {
+    "id": 4,
+    "nombre": "Caja Bon O Bon Leche",
+    "precio": "600",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_691380-MLA43199027654_082020-O.webp"
+}, {
+    "id": 5,
+    "nombre": "Galletas Bagley Porteñitas",
+    "precio": "98",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_719171-MLA44678959605_012021-O.webp"
+}, {
+    "id": 6,
+    "nombre": "Turrón Arcor Chocolatada",
+    "precio": "200",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_832047-MLA46403421814_062021-O.webp"
+}, {
+    "id": 7,
+    "nombre": "Alfajor Triple Aguila Clasico",
+    "precio": "89",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_897823-MLA44651065774_012021-O.webp"
+}, {
+    "id": 8,
+    "nombre": "Galletas Bagley Chocolinas",
+    "precio": "115",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_808667-MLA43815565064_102020-O.webp"
+}, {
+    "id": 9,
+    "nombre": "Mani C/ Chocolate Block",
+    "precio": "77",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_856639-MLA46247767869_062021-O.webp"
+}, {
+    "id": 10,
+    "nombre": "Ositos Acidos Mogul Extreme",
+    "precio": "170",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_816143-MLA44662639542_012021-O.webp"
+}, {
+    "id": 11,
+    "nombre": "Bombones De Fruta Mogul",
+    "precio": "485",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_771578-MLA44495264377_012021-O.webp"
+}, {
+    "id": 12,
+    "nombre": "Caramelos Gajitos Acidos",
+    "precio": "314",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_922245-MLA48098921480_112021-O.webp"
+}, {
+    "id": 13,
+    "nombre": "Caramelos Butter Toffees",
+    "precio": "595",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_606126-MLA43297714198_082020-O.webp"
+}, {
+    "id": 14,
+    "nombre": "Galletas Merengadas",
+    "precio": "92",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_631036-MLA43815375378_102020-O.webp"
+}, {
+    "id": 15,
+    "nombre": "Caramelos Bc",
+    "precio": "671",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_700852-MLA45511016232_042021-O.webp"
+}, {
+    "id": 16,
+    "nombre": "Relleno Untable Bon O Bon",
+    "precio": "289",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_892519-MLA47736361308_102021-O.webp"
+}, {
+    "id": 17,
+    "nombre": "Alfajor Triple Cofler Block",
+    "precio": "89",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_987540-MLA44651219441_012021-O.webp"
+}, {
+    "id": 18,
+    "nombre": "Obleas Opera Triple Chocolate",
+    "precio": "77",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_992828-MLA47737216167_102021-O.webp"
+}, {
+    "id": 19,
+    "nombre": "Garrapiñada De Mani Arcor",
+    "precio": "100",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_961807-MLA44010931420_112020-O.webp"
+}, {
+    "id": 20,
+    "nombre": "Pan Dulce Águila Black",
+    "precio": "619",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_770400-MLA44008269106_112020-O.webp"
+}]
